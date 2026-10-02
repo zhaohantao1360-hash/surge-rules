@@ -1,6 +1,6 @@
 # NAME: Meta AI / Muse
 # Surge Rule Set
-# Updated: 2026-09-22
+# Updated: 2026-10-02
 
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,metaaivm.com
@@ -8,3 +8,4 @@ DOMAIN-SUFFIX,ai.meta.com
 DOMAIN-SUFFIX,dev.meta.ai
 DOMAIN-SUFFIX,research.meta.ai
 DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,llama.com
