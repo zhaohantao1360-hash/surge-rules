@@ -2,6 +2,8 @@
 # Surge Rule Set
 # Updated: 2026-10-16
 # 说明：Hark 个人 AI 助手（Hark Pro，hark.com）
-# 覆盖网页端、App API、登录鉴权（auth.hark.com、api.hark.com 均为 hark.com 子域名）
-
+# 网页端、App API、登录鉴权（app.hark.com、api.hark.com、auth.hark.com 等均为 hark.com 子域名）
 DOMAIN-SUFFIX,hark.com
+# 文件、图片、附件下载（AWS S3 美西）
+DOMAIN,hark-media-prod.s3.us-west-2.amazonaws.com
+DOMAIN,hark-media-prod.s3.amazonaws.com
