@@ -1,0 +1,7 @@
+# NAME: Hark
+# Surge Rule Set
+# Updated: 2026-10-16
+# 说明：Hark 个人 AI 助手（Hark Pro，hark.com）
+# 覆盖网页端、App API、登录鉴权（auth.hark.com、api.hark.com 均为 hark.com 子域名）
+
+DOMAIN-SUFFIX,hark.com
