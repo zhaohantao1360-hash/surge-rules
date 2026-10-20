@@ -9,3 +9,10 @@ DOMAIN-SUFFIX,dev.meta.ai
 DOMAIN-SUFFIX,research.meta.ai
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,llama.com
+
+# Wabi (added 2026-10-21)
+# Official website and app/API domains
+DOMAIN-SUFFIX,wabi.ai
+DOMAIN-SUFFIX,getwabi.ai
+# Wabi attachment CDN; exact host only, not all of CloudFront
+DOMAIN,d34c7q5wjf4spy.cloudfront.net
