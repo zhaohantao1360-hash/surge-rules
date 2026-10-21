@@ -1,6 +1,6 @@
-# NAME: Meta AI / Muse
+# NAME: Meta AI / Muse + Wabi + Hark
 # Surge Rule Set
-# Updated: 2026-10-02
+# Updated: 2026-10-21
 
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,metaaivm.com
@@ -16,3 +16,10 @@ DOMAIN-SUFFIX,wabi.ai
 DOMAIN-SUFFIX,getwabi.ai
 # Wabi attachment CDN; exact host only, not all of CloudFront
 DOMAIN,d34c7q5wjf4spy.cloudfront.net
+
+# Hark Pro (merged from this repository's Hark.list, 2026-10-21)
+# Official service: https://hark.com/ ; iOS developer: Hark Labs Inc.
+# Existing Hark.list media hosts retained as exact matches, not all of AWS S3
+DOMAIN-SUFFIX,hark.com
+DOMAIN,hark-media-prod.s3.us-west-2.amazonaws.com
+DOMAIN,hark-media-prod.s3.amazonaws.com
